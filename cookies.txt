@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.plataformapascal.com	TRUE	/NV/	FALSE	1999999999	MoodleSession	72f1ca996507c391f578daab348cb2f8
+
